@@ -9,6 +9,11 @@
 <p align="center"><a href="https://github.com/JetWareRoblox" target="_blank">Jet</a>
 <p align="center"><a href="https://github.com/Dexxxxl" target="_blank">Dexxxxl</a>
 
+# Setup
+[1]. download repostitory
+![DownloadInstructions1](https://github.com/JetWareRoblox/JetWare/assets/140162441/729c13af-2eab-4973-8648-de490790f219)
+![DownloadInstructions2](https://github.com/JetWareRoblox/JetWare/assets/140162441/fefda379-0dc4-44ee-9488-d5b1067f6572)
+
 
 
 For those of you who belive it is malicious 
