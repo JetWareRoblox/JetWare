@@ -23,10 +23,13 @@ DONE!
 
 ## TO DO
 
-Create a better UI/GUI
-Add mac support
+Create a better UI/GUI, 
+Add mac support, 
 Get licence 
 
+
+
+# is it a virus?
 
 For those of you who belive it is malicious code 
 ![Antivirus](https://github.com/JetWareRoblox/JetWare/assets/140162441/745992af-1614-4e6f-ae08-3dd3003b8e1a)
