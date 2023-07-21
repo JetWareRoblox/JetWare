@@ -1,10 +1,6 @@
-<p align="center">
-[JetWare DaHood External](https://discord.gg/bSQCrQMRce)
-</p>
+<p align="center"><a href="https://t.me/CrealStealer" target="_blank">JetWare External</a>
 
-<p align="center">
-[Discord](https://discord.gg/bSQCrQMRce)
-</p>
+<p align="center"><a href="https://discord.gg/bSQCrQMRce" target="_blank">Discord Server</a>
 
 # Created By
 <p align="center">
