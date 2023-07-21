@@ -1,5 +1,18 @@
+<p align="center">
 [JetWare DaHood External](https://discord.gg/bSQCrQMRce)
+</p>
 
+<p align="center">
+[Discord](https://discord.gg/bSQCrQMRce)
+</p>
+
+# Created By
+<p align="center">
+[Jet](https://github.com/JetWareRoblox)
+</p>
+<p align="center">
+[Dexxxxl](https://github.com/Dexxxxl)
+</p>
 
 
 For those of you who belive it is malicious 
