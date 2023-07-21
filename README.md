@@ -1,14 +1,14 @@
+# ✈️ JetWare
 <p align="center"><a href="https://t.me/CrealStealer" target="_blank">JetWare External</a>
+
 
 <p align="center"><a href="https://discord.gg/bSQCrQMRce" target="_blank">Discord Server</a>
 
-# Created By
-<p align="center">
-[Jet](https://github.com/JetWareRoblox)
-</p>
-<p align="center">
-[Dexxxxl](https://github.com/Dexxxxl)
-</p>
+# 👨‍💻 Created By
+
+<p align="center"><a href="https://github.com/JetWareRoblox" target="_blank">Jet</a>
+<p align="center"><a href="https://github.com/Dexxxxl" target="_blank">Dexxxxl</a>
+
 
 
 For those of you who belive it is malicious 
