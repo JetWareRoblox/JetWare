@@ -21,7 +21,7 @@ Click ▷ to start
 DONE!
 
 
-## TO DO
+## TO DO?
 
 Create a better UI/GUI, 
 Add mac support, 
