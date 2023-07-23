@@ -1,5 +1,5 @@
 ## ✈️ JetWare
-<p align="center"><a href="https://t.me/CrealStealer" target="_blank">JetWare External</a>
+<p align="center"><a href="https://github.com/JetWareRoblox/JetWare" target="_blank">JetWare External</a>
 
 
 <p align="center"><a href="https://discord.gg/bSQCrQMRce" target="_blank">Discord Server</a>
